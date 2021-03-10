@@ -1,3 +1,4 @@
+[![Board Status](https://robjw66-gmail.visualstudio.com/1e8bf5f1-5a63-464e-a0e4-52da904f0835/ebd85187-d2a3-4573-9202-88eeb0da74ce/_apis/work/boardbadge/36b66304-7287-4f32-9b7a-9ed40d6b6caa)](https://robjw66-gmail.visualstudio.com/1e8bf5f1-5a63-464e-a0e4-52da904f0835/_boards/board/t/ebd85187-d2a3-4573-9202-88eeb0da74ce/Microsoft.RequirementCategory)
 
 # Professional C# 7 and .NET Core 2.0
 
